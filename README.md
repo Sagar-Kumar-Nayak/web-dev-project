@@ -14,4 +14,4 @@ https://youtu.be/KQFc4BiISVk
 https://youtu.be/sMTd4QcUET8
 
 :hosted link
-https://SagarKumarNayak.github.io/Meals-App/
+https://Sagar-Kumar-Nayak.github.io/Meals-App/
